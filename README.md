@@ -22,4 +22,4 @@ A simple image encryption tool using pixel manipulation.
 Contributions and suggestions are welcome! Feel free to fork this repository and submit pull requests to improve the program.
 ---
 ## License
-This project is open-source and available under the [MIT License](https://github.com/Shehu-Yakubu/PRODIGY_CS_02/master/README.md)
+This project is open-source and available under the [MIT License](https://github.com/Shehu-Yakubu/PRODIGY_CS_02/)
